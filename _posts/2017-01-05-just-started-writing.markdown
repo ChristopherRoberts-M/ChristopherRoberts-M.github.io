@@ -6,7 +6,7 @@ categories: hope writing unemployment
 ---
 
 What you are reading is my way of throwing my arms up in frustration and shouting  
-> “Fine! Nothing else has worked; I’ll just start writing until something happens!”  
+> Fine! Nothing else has worked; I’ll just start writing until something happens!  
 
 I tried turning my interests and abilities into a gainful living through education and applying for work. 
 Writing this feels like creating and firing a flare instead of improving the ship I’m on. 
