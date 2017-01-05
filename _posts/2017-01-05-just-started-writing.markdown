@@ -16,7 +16,7 @@ As Mr. Spock can [attest][trek-quote], that is not a hopeful situation to be in.
 I am a writer by inclination, a journalist by training, and a science/technical writer by education. 
 I am also a man of incredibly bad timing: my university schooling began just as the great recession hit 
 and the already-few low-hanging branches of a career in journalism vanished from sight. Broadening my 
-search resulted in silent rejection, nothing to act upon. I come from a midwestern, working-class background 
+search resulted in silent rejection, nothing to act upon. I come from a Midwestern, working-class background 
 and, until college, had been consistently employed somehow since age 12. Prolonged unemployment, 
 in spite of all efforts, is beyond discouraging.  
 
