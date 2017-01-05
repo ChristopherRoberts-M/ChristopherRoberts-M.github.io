@@ -10,7 +10,7 @@ title: Meandrous Scribe
 email: ChristopherRoberts.M@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Meandrous Scribe, the official blog of Chris Roberts: 
-  science journalism graduate, history nerd, and Oxford comma user. 
+  science journalism graduate, general nerd, and Oxford comma user. 
   Here, you can expect to see text, oodles of it, on topics ranging 
   from science and entertainment to opinion and Clojure programming projects.
 baseurl: "" # the subpath of your site, e.g. /blog
