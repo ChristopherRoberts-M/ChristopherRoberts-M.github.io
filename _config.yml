@@ -12,8 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to Meandrous Scribe, the official blog of Chris Roberts: 
   science journalism graduate, history nerd, and Oxford comma user. 
   Here, you can expect to see text, oodles of it, on topics ranging 
-  from science news and entertainment reviews to opinion articles 
-  and Clojure programming projects.
+  from science and entertainment to opinion and Clojure programming projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.MeandrousScribe.com" # the base hostname & protocol for your site
 twitter_username: MeandrousScribe
