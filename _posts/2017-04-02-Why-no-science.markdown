@@ -2,7 +2,7 @@
 layout: post
 title:  "Why no science articles, science journalism grad?"
 date:   2017-04-02 16:24:00 -0600
-categories: science, journalism
+categories: science journalism
 ---
 
 I noticed that it has been a while since I made good on the whole “force myself to write” shtick. 
