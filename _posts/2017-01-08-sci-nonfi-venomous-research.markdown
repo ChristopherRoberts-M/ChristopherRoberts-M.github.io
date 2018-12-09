@@ -27,7 +27,7 @@ insulin production is limited, that is too quick for long-lasting blood sugar re
 The study’s authors state that GLP-1’s function is highly consistent in animal evolution, 
 “[having] been identified in a range of vertebrate species.” One of those species is the platypus; 
 GLP-1 is found in both its digestive tract and venom. However, with the platypus, GLP-1 is metabolized 
-in an entirely different method, making it almost entirely unaffected by the protease enzymes at work in other species. 
+using a different method, making it almost entirely unaffected by the protease enzymes at work in other species. 
 
 One of the many unusual facts about platypus venom is that it isn’t used against prey, or even mainly against predators. 
 Venom production is highest during mating season and only males have venom glands. The idea being that 
@@ -36,7 +36,7 @@ the venom is used against rival males.
 The authors conclude that the resistance of platypus GLP-1 is “the result of conflicting function of 
 this peptide in metabolic control and venom.” They speculate that the same protein being used for 
 internal regulation and as a weapon against its own species pushed the evolution of the platypus 
-toward different means of breaking down GLP-1.  
+towards a different means of breaking down GLP-1.  
 
 On a side note: The authors use the abbreviation GCG over six times, for two pages, before defining it. Bad form. 
 Improved use of commas would also have made for easier reading. Copyediting isn’t just for English majors.
