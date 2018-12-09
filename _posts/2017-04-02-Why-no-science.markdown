@@ -19,7 +19,7 @@ interviewing sources, writing articles, editing content/layout, repeat. Classica
 That idea has clearly not gone to plan. First, the Internet ravaged journalism. Then, the Great Recession killed most 
 remaining job opportunities. Finally, the nation elected a black Democrat (twice) and half of the government lost its 
 collective [insert preferred modifier] mind. Any one of those things would be discouraging. All three, combined with applications being met 
-with silence that I could not learn from, made it almost impossible to maintain an optimistic/healthy perspective.  
+with silence that I could not learn from, made it almost impossible to maintain an optimistic perspective.  
 
 Now, we have officials tasked with official science policy talking about a [chronic liar][is truth dead] being the only 
 [source of truth][trump is the way truth and light] while refusing to accept that 
