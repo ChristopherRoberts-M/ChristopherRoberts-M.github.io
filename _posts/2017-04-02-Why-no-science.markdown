@@ -18,7 +18,7 @@ interviewing sources, writing articles, editing content/layout, repeat. Classica
 
 That idea has clearly not gone to plan. First, the Internet ravaged journalism. Then, the Great Recession killed most 
 remaining job opportunities. Finally, the nation elected a black Democrat (twice) and half of the government lost its 
-collective fucking mind. Any one of those things would be discouraging. All three, combined with applications being met 
+collective [insert preferred modifier] mind. Any one of those things would be discouraging. All three, combined with applications being met 
 with silence that I could not learn from, made it almost impossible to maintain an optimistic/healthy perspective.  
 
 Now, we have officials tasked with official science policy talking about a [chronic liar][is truth dead] being the only 
@@ -32,7 +32,7 @@ most likely), and a populace that appears more concerned with ideological purity
 out offers a clearer view of how a would-be science journalist lost faith in both science and journalism, at least as far 
 as the two making for a possible, even fruitful, career. I still find science and journalism to be where my mind feels 
 most comfortable and where it might do the most good, or at least be most productive. But, such feelings ring as hollow 
-as a parroted sales pitch when no one else seems to give a shit and I am not permitted to be of use.  
+as a parroted sales pitch when I seem to be shouting into a void and I am not permitted to be of use.  
 
 I came across an unattributed quote: "Don't cling to a mistake just because you spent a lot of time making it." I like it 
 and hope to put it into action, but that brings up a question that has looped in my mind for years without an answer that 
@@ -40,5 +40,5 @@ has worked or that I have any confidence in: Go where and do what?
 
 
 [is truth dead]:http://time.com/4710456/donald-trump-time-interview-truth-falsehood/  
-[trump is the way truth and light]: http://time.com/4710456/donald-trump-time-interview-truth-falsehood/  
+[trump is the way truth and light]: https://www.cnn.com/2017/01/25/politics/lamar-smith-donald-trump-news/index.html  
 [never enough evidence]: http://www.cnbc.com/2017/03/09/epa-chief-scott-pruitt.html
