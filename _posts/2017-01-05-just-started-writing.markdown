@@ -14,7 +14,7 @@ Writing this feels like creating and firing a flare instead of improving the shi
 As Mr. Spock can [attest][trek-quote], that is not a hopeful situation to be in.  
 
 I am a writer by inclination, a journalist by training, and a science/technical writer by education. 
-I am also a man of incredibly bad timing: my university schooling began just as the great recession hit 
+I am also a man of incredibly bad timing: my university schooling began just as the Great Recession hit 
 and the already-few low-hanging branches of a career in journalism vanished from sight. Broadening my 
 search resulted in silent rejection, nothing to act upon. I come from a Midwestern, working-class background 
 and, until college, had been consistently employed somehow since age 12. Prolonged unemployment, 
@@ -25,12 +25,12 @@ until I could resolve the seemingly more important problem of finding work. As y
 from how similar the previous sentence is to the textbook symptoms of depression, burnout set in. 
 Any time spent not actively working to “get a job” (an often dismissively-used phrase that I have 
 come to loathe) felt wasted, neglectful. I was neglecting my own well-being, impulsively avoiding 
-and distracting myself from frustrations, and allowing my attempts to “fix” things to become ever 
+and distracting myself from frustrations, and allowing my attempts to remedy things to become ever 
 more disorganized and desperate.  
 
-Fast-forward to November 21st, I made a choice: I would stop neglecting myself for the sake of previous expectations
+Fast-forward to November 21, I made a choice: I would stop neglecting myself for the sake of previous expectations
 and my failed attempts to meet them. I am in the odd position of forcing myself to engage in my interests because 
-doing so is good for me, rather than being a direct means of “gaining” something.  
+doing so is good for me, rather than being a direct means of gaining something.  
 
 It has taken my over a month to overcome a series of obstacles, tedious computer issues, and other complications, 
 but the site is up. I am just getting started here and the layout will definitely change as I get the hang of 
