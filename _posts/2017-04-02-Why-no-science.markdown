@@ -32,7 +32,7 @@ most likely), and a populace that appears more concerned with ideological purity
 out offers a clearer view of how a would-be science journalist lost faith in both science and journalism, at least as far 
 as the two making for a possible, even fruitful, career. I still find science and journalism to be where my mind feels 
 most comfortable and where it might do the most good, or at least be most productive. But, such feelings ring as hollow 
-as a parroted sales pitch when I seem to be shouting into a void and I am not permitted to be of use.  
+as a parroted sales pitch when I seem to be shouting into a void and am not permitted to be of use.  
 
 I came across an unattributed quote: "Don't cling to a mistake just because you spent a lot of time making it." I like it 
 and hope to put it into action, but that brings up a question that has looped in my mind for years without an answer that 
