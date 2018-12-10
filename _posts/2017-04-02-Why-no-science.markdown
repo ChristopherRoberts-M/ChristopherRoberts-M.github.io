@@ -27,7 +27,7 @@ Now, we have officials tasked with official science policy talking about a [chro
 paragraphs about how sickening and hopeless political news has been this past decade, but such a litany of disagreeable 
 crap would not help my mood.  
 
-So, missed opportunities, lack of known options, a government that is either idiotic or evil (the former sadly seems the 
+So, missed opportunities, lack of known options, a government that is either idiotic or evil (the former, sadly, seems the 
 most likely), and a populace that appears more concerned with ideological purity than objective reality. Spelling it all 
 out offers a clearer view of how a would-be science journalist lost faith in both science and journalism, at least as far 
 as the two making for a possible, even fruitful, career. I still find science and journalism to be where my mind feels 
