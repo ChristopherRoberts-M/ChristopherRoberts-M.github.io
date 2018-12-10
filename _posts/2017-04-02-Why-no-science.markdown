@@ -14,7 +14,7 @@ if you are never hired, and recreational writing has felt like adding raindrops 
 Put simply, I did not go to college for an art degree, to churn out content until someone feels inspired to pay me; 
 I went to learn skills and methods for completing assigned tasks for a relevant company that needed such tasks completed. 
 AKA: getting assignments or an area to cover, researching and investigating topics, analyzing/sifting masses of raw data, 
-interviewing sources, writing articles, editing content/layout, repeat. Classical journalism.  
+interviewing sources, writing articles, editing content and layout, repeat. Classical journalism.  
 
 That idea has clearly not gone to plan. First, the Internet ravaged journalism. Then, the Great Recession killed most 
 remaining job opportunities. Finally, the nation elected a black Democrat (twice) and half of the government lost its 
