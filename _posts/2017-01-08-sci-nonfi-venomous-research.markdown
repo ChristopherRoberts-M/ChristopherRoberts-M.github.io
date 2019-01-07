@@ -12,7 +12,7 @@ Nature has spent more time using chemicals to alter and manipulate organisms tha
 Venom proteins can frequently alter bodily processes more effectively and efficiently than current medical techniques.  
 
 If doctors borrowing venom for medicine sounds strange, you’re behind the times. There’s already an 
-[FDA-approved medication][fda-gila] on the market that’s based on [gila monster venom][monster-meds] and 
+[FDA-approved medication][fda-gila] on the market that’s based on [Gila monster venom][monster-meds] and 
 scorpion venom has been used in [experimental treatment][scorpion-wins] for rare and lethal forms of brain cancer.  
 
 Another example is a chemical in platypus venom being researched as a potential treatment for type-2 diabetes. 
